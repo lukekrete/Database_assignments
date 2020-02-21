@@ -1,0 +1,5 @@
+[database]
+user = kret8350
+password = Jell0Jell0
+host = rshopper.wlu.ca
+database = kret8350
